@@ -1,0 +1,20 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "description": "Nodejs bmi calculator coding challenge by Vamstar.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --timeout 180000"
+  },
+  "author": "Hemant Kumar Singh <hemantkumarsingh02@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "stream-json": "^1.7.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.2",
+    "chai": "^4.3.4"
+  }
+}
