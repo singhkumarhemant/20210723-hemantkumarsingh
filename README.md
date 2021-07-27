@@ -17,12 +17,17 @@ NODE:   Nodejs version 10 or greater.
 
 ## Installation
 
+```
 > npm i
 > npm run start
+```
 
 ## Test
+```
 
 > npm run test
+
+```
 
 ### Known Issue
 Nothing at the moment :)
